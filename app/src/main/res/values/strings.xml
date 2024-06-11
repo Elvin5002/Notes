@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="enter_the_description">Enter the description</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="enter_the_title_desc">Enter the description</string>
+    <string name="tap_the_button_to_create_a_new_note">Tap the \'+\' button to create a new note.</string>
+</resources>
