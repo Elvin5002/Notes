@@ -14,7 +14,7 @@ A simple and efficient notes application built with **Kotlin**. This app allows 
 ## Screenshots
 
 | Home Screen | Create Note Screen | Edit(Delete) Note Screen |
-|-------------|-------------------|-----------------------|
+|-------------|---------------------|--------------------------|
 | ![Home Screen](app/src/main/assets/screenshots/home.jpg) | ![Create Note Screen](app/src/main/assets/screenshots/add.jpg) | ![Edit(Delete) Note Screen](app/src/main/assets/screenshots/edit.jpg) |
 
 ## Technologies Used
